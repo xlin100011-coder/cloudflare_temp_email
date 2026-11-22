@@ -135,8 +135,8 @@ ENABLE_AUTO_REPLY = false
 # subdomain forward address list, if set, subdomain emails will be forwarded to these addresses
 # SUBDOMAIN_FORWARD_ADDRESS_LIST = """
 # [
-#     {"domains":[""],"forward":"xxx1@xxx.com"},
-#     {"domains":["subdomain-1.domain.com","subdomain-2.domain.com"],"forward":"xxx2@xxx.com"}
+#     {"domains":["lxmail.eu.cc"],"forward":"xxx1@lxmail.eu.cc"},
+#     {"domains":["subdomain-1.domain.com","subdomain-2.domain.com"],"forward":"xxx2@lxmail.eu.cc"}
 # ]
 # """
 # Frontend URL
