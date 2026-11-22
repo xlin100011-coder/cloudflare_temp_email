@@ -182,8 +182,8 @@ ENABLE_AUTO_REPLY = false
 
 [[d1_databases]]
 binding = "DB"
-database_name = "lxmail001"
-database_id = "72a3399f-ddf4-447c-8843-953a5c3d1945"
+database_name = "lbmail01"
+database_id = "e3fc6474-54cc-4c88-af41-0b195c05d956"
 
 # Workers AI binding (required for AI email extraction)
 # [ai]
