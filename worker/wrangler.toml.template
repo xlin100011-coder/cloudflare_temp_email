@@ -71,7 +71,6 @@ DOMAINS = ["lxmail.eu.cc"] # all domain names
 #    { domains = ["xxx.xxx1" , "xxx.xxx2"], role = "vip", prefix = "vip" },
 #    { domains = ["xxx.xxx1" , "xxx.xxx2"], role = "admin", prefix = "" },
 # ]
-JWT_SECRET = "xxx"
 BLACK_LIST = ""
 # Disable the user system and hide its frontend entries
 # DISABLE_USER_SYSTEM = true
