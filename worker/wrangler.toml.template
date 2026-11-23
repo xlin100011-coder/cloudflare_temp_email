@@ -53,8 +53,8 @@ PREFIX = "tmp"
 # ADMIN_CONTACT = "xx@xx.xxx"
 # Create new address with default domain first, if set true, will use first domain from DEFAULT_DOMAINS when no domain specified
 # CREATE_ADDRESS_DEFAULT_DOMAIN_FIRST = false
-DEFAULT_DOMAINS = ["lbmail.eu.cc"] # domain name for no role users
-DOMAINS = ["lbmail.eu.cc"] # all domain names
+DEFAULT_DOMAINS = ["lxmail.eu.cc"] # domain name for no role users
+DOMAINS = ["lxmail.eu.cc"] # all domain names
 # Allow /api/new_address and /admin/new_address to accept subdomains that end with an allowed base domain
 # e.g. if DOMAINS contains "abc.com", API can accept "team.abc.com" and "dev.team.abc.com"
 # ENABLE_CREATE_ADDRESS_SUBDOMAIN_MATCH = true
@@ -182,8 +182,8 @@ ENABLE_AUTO_REPLY = false
 
 [[d1_databases]]
 binding = "DB"
-database_name = "lbmail01"
-database_id = "e3fc6474-54cc-4c88-af41-0b195c05d956"
+database_name = "lxmail001"
+database_id = "72a3399f-ddf4-447c-8843-953a5c3d1945"
 
 # Workers AI binding (required for AI email extraction)
 # [ai]
